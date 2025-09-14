@@ -1,0 +1,14 @@
+
+# Build
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.vs/
+*.DS_Store
+*.log
+*.tmp
+*.cache
+.vscode/
+*.exe
